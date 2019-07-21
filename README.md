@@ -1,5 +1,6 @@
 # Time-Series-Neural-Network-Grid-Search
 Grid search for multilayer perceptron neural network for modelling time series data
+Special Thanks to Jason Brownlee
 
 Time series data often arise when monitoring industrial processes or tracking corporate business metrics.
 Tuning hyperparameters is always a difficult task when building neural networks.
