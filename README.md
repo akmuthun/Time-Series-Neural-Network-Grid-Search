@@ -1,5 +1,6 @@
 # Time-Series-Neural-Network-Grid-Search
 Grid search for multilayer perceptron neural network for modelling time series data
+For  <a href="https://github.com/akmuthun/stock_market_predictions_neural_net"> examples </a>
 
 Special Thanks to Jason Brownlee
 
